@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  ScrollChangeEffect
+//
+//  Created by melo on 2018/12/23.
+//  Copyright © 2018 陈诚. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "Header.h"
+
+#endif /* PrefixHeader_pch */
